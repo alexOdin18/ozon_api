@@ -3,6 +3,7 @@
 - [Ссылка](https://docs.ozon.ru/api/seller/#operation/AnalyticsAPI_AnalyticsGetData) на документацию метода API.
 - Стек: google apps script (JS), google sheets.
 - Пример таблицы: [google sheets](https://docs.google.com/spreadsheets/d/19JaWTValfj783L9HFgP8XC-bqif_ujOeQ2DtBgUeT98/edit?usp=sharing)
+- Пример [дашборда](https://drive.google.com/file/d/1T4fwuXmV0kQPrNdTSiampwNqBWgNuZ3V/view?usp=sharing) построенного по данным таблицы
 
 ### Описание
 
