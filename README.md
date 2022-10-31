@@ -1,6 +1,6 @@
 # Аналитические инструменты для работы с Ozon на базе google apps script и Ozon Seller API (2.1).
 - [Ссылка](https://docs.ozon.ru/api/seller/) на документацию API.
-- [Ссылка](https://developers.google.com/apps-script) на документация google apps script
+- [Ссылка](https://developers.google.com/apps-script) на документацию google apps script
 ----------------------------------------------------------------------------------------
 ## 1. Инструмент контроля остатков на складах Озон.
 ### Краткое описание
