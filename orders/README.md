@@ -2,7 +2,7 @@
 - [Ссылка](https://docs.ozon.ru/api/seller/#operation/PostingAPI_GetFboPostingList) на документацию API Ozon
 - Стек: google apps script (JS), google sheets.
 - Пример таблицы: [google sheets](https://docs.google.com/spreadsheets/d/1-N3xL9Itl8dzzJ40yBdNuOQ2bpy85PTxV5QYXjnJJ_A/edit?usp=sharing)
-- Пример [дашборда](), построенного по данным из таблицы
+- Пример [дашборда](https://drive.google.com/file/d/1jS9DIGJJUE0MJK8bok8ghxqEnEuBDP84/view?usp=sharing), построенного по данным из таблицы
 
 ### Описание
 Скрипт позволяет выгружать список заказов за период по схеме FBO со следующими данными:  
